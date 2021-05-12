@@ -1,6 +1,6 @@
 # Video Games Sales Analysis
 
-### Tool Used : PowerBI
+Tool Used : PowerBI
 
 ##
 ### ABOUT THE DATASET
